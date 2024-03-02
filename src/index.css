@@ -58,6 +58,11 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+.perspective {
+  perspective: 1000px;
+}
+
+
 
 @media (prefers-color-scheme: light) {
   :root {
